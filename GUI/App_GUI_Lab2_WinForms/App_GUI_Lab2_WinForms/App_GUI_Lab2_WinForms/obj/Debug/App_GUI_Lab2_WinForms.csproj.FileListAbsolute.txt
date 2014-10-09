@@ -1,0 +1,17 @@
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\App_GUI_Lab2_WinForms.exe.config
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\App_GUI_Lab2_WinForms.exe.config
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\App_GUI_Lab2_WinForms.exe
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\App_GUI_Lab2_WinForms.pdb
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\ControlLibrary_GUI_Lab2.dll
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\ControlLibrary_GUI_Lab2.pdb
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.csprojResolveAssemblyReference.cache
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.MainForm.resources
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.Properties.Resources.resources
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.WorkForm.resources
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.csproj.GenerateResource.Cache
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.exe
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.pdb
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.StyleFontForm.resources
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\CL_Paragraph_GUI_Lab2.dll
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\CL_Paragraph_GUI_Lab2.pdb
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.StyleParagraphForm.resources

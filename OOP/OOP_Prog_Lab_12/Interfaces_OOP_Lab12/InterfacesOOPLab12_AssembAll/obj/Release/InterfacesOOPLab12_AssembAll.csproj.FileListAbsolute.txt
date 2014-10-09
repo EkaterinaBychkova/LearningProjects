@@ -1,0 +1,10 @@
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\Interfaces_OOP_Lab12\obj\Release\InterfacesOOPLab12_AssembAll.csprojResolveAssemblyReference.cache
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\Interfaces_OOP_Lab12\bin\Release\Interfaces_OOP_Lab12.dll
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\Interfaces_OOP_Lab12\bin\Release\Interfaces_OOP_Lab12.pdb
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\Interfaces_OOP_Lab12\obj\Release\Interfaces_OOP_Lab12.dll
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\Interfaces_OOP_Lab12\obj\Release\Interfaces_OOP_Lab12.pdb
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembAll\bin\Release\Interfaces_OOP_Lab12.dll
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembAll\bin\Release\Interfaces_OOP_Lab12.pdb
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembAll\obj\Release\InterfacesOOPLab12_AssembAll.csprojResolveAssemblyReference.cache
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembAll\obj\Release\Interfaces_OOP_Lab12.dll
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembAll\obj\Release\Interfaces_OOP_Lab12.pdb

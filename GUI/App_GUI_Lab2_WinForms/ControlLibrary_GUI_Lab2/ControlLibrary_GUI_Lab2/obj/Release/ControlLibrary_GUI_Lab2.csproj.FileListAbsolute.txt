@@ -1,0 +1,6 @@
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\bin\Release\ControlLibrary_GUI_Lab2.dll
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\bin\Release\ControlLibrary_GUI_Lab2.pdb
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\obj\Release\ControlLibrary_GUI_Lab2.ControlFormatText.resources
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\obj\Release\ControlLibrary_GUI_Lab2.csproj.GenerateResource.Cache
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\obj\Release\ControlLibrary_GUI_Lab2.dll
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\obj\Release\ControlLibrary_GUI_Lab2.pdb

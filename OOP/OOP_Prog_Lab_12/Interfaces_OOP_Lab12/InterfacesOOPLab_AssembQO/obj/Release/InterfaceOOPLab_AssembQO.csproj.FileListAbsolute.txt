@@ -1,0 +1,4 @@
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab_AssembQO\bin\Release\InterfacesOOPLab_AssembQO.dll
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab_AssembQO\bin\Release\InterfacesOOPLab_AssembQO.pdb
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab_AssembQO\obj\Release\InterfacesOOPLab_AssembQO.dll
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab_AssembQO\obj\Release\InterfacesOOPLab_AssembQO.pdb

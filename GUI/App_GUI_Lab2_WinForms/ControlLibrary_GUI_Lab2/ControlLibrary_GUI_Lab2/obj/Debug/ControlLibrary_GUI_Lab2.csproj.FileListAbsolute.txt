@@ -1,0 +1,7 @@
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\bin\Debug\ControlLibrary_GUI_Lab2.dll
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\bin\Debug\ControlLibrary_GUI_Lab2.pdb
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\obj\Debug\ControlLibrary_GUI_Lab2.csprojResolveAssemblyReference.cache
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\obj\Debug\ControlLibrary_GUI_Lab2.csproj.GenerateResource.Cache
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\obj\Debug\ControlLibrary_GUI_Lab2.dll
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\obj\Debug\ControlLibrary_GUI_Lab2.pdb
+E:\Univer Documents\Средства взаимодействия человека с ВС\Labs\App_GUI_Lab2_WinForms\ControlLibrary_GUI_Lab2\ControlLibrary_GUI_Lab2\obj\Debug\ControlLibrary_GUI_Lab2.ControlFormatText.resources

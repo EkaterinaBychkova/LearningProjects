@@ -1,0 +1,8 @@
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\Interfaces_OOP_Lab12\bin\Debug\Interfaces_OOP_Lab12.dll
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\Interfaces_OOP_Lab12\bin\Debug\Interfaces_OOP_Lab12.pdb
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\Interfaces_OOP_Lab12\obj\Debug\Interfaces_OOP_Lab12.dll
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\Interfaces_OOP_Lab12\obj\Debug\Interfaces_OOP_Lab12.pdb
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembAll\bin\Debug\Interfaces_OOP_Lab12.dll
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembAll\bin\Debug\Interfaces_OOP_Lab12.pdb
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembAll\obj\Debug\Interfaces_OOP_Lab12.dll
+E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembAll\obj\Debug\Interfaces_OOP_Lab12.pdb

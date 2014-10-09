@@ -1,0 +1,7 @@
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\CL_Paragraph_GUI_Lab2\bin\Release\CL_Paragraph_GUI_Lab2.dll
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\CL_Paragraph_GUI_Lab2\bin\Release\CL_Paragraph_GUI_Lab2.pdb
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\CL_Paragraph_GUI_Lab2\obj\Release\CL_Paragraph_GUI_Lab2.csprojResolveAssemblyReference.cache
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\CL_Paragraph_GUI_Lab2\obj\Release\CL_Paragraph_GUI_Lab2.ControlStyleParagraph.resources
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\CL_Paragraph_GUI_Lab2\obj\Release\CL_Paragraph_GUI_Lab2.csproj.GenerateResource.Cache
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\CL_Paragraph_GUI_Lab2\obj\Release\CL_Paragraph_GUI_Lab2.dll
+E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\CL_Paragraph_GUI_Lab2\obj\Release\CL_Paragraph_GUI_Lab2.pdb
