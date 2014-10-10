@@ -7,8 +7,8 @@
     <ProjectGuid>{330622EC-85C8-4081-AE01-7B07E2AD24DF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>InterfacesOOPLab12_Assemb2</RootNamespace>
-    <AssemblyName>InterfacesOOPLab12_Assemb2</AssemblyName>
+    <RootNamespace>InterfacesOOPLab12_AssembBO</RootNamespace>
+    <AssemblyName>InterfacesOOPLab12_AssembBO</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -1,1 +1,2 @@
 E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\bin\Debug\OOP_Prog_Lab_12.exe.config
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\bin\Debug\OOP_Prog_Lab_12.exe.config

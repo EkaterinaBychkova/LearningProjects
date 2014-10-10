@@ -2,3 +2,7 @@ E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_O
 E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembOM\bin\Debug\InterfacesOOPLab12_AssembOM.pdb
 E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembOM\obj\Debug\InterfacesOOPLab12_AssembOM.dll
 E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembOM\obj\Debug\InterfacesOOPLab12_AssembOM.pdb
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembOM\bin\Debug\InterfacesOOPLab12_AssembOM.dll
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembOM\bin\Debug\InterfacesOOPLab12_AssembOM.pdb
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembOM\obj\Debug\InterfacesOOPLab12_AssembOM.dll
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab12_AssembOM\obj\Debug\InterfacesOOPLab12_AssembOM.pdb
