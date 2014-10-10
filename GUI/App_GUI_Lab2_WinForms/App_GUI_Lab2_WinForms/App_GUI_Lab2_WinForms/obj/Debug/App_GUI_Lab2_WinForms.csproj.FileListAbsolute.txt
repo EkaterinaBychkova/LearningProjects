@@ -15,3 +15,6 @@ E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForm
 E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\CL_Paragraph_GUI_Lab2.dll
 E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\CL_Paragraph_GUI_Lab2.pdb
 E:\Univer Documents\СВ с ВС\Labs\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.StyleParagraphForm.resources
+E:\MyLocalRepository\GUI\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\bin\Debug\App_GUI_Lab2_WinForms.exe.config
+E:\MyLocalRepository\GUI\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.exe
+E:\MyLocalRepository\GUI\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\App_GUI_Lab2_WinForms\obj\Debug\App_GUI_Lab2_WinForms.pdb

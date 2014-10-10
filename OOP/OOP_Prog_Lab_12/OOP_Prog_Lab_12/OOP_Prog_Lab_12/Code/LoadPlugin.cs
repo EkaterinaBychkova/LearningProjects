@@ -25,7 +25,7 @@ namespace OOP_Prog_Lab_12.Code
             mainAssembly = Assembly.GetExecutingAssembly();
         }
 
-        private void LoadPlugins(string path, string searchInterface, Dictionary<string, IBasicOperations> plugins)
+        private void SetLoadPlugins(string path, string searchInterface, Dictionary<string, IBasicOperations> plugins)
         {
 
             _pluginsBasicOperations.Clear();
@@ -58,7 +58,7 @@ namespace OOP_Prog_Lab_12.Code
             }
         }
 
-        private void LoadPlugins(string path, string searchInterface, Dictionary<string, IOperationsMatrix> plugins)
+        private void SetLoadPlugins(string path, string searchInterface, Dictionary<string, IOperationsMatrix> plugins)
         {
 
             _pluginsBasicOperations.Clear();
@@ -91,7 +91,7 @@ namespace OOP_Prog_Lab_12.Code
             }
         }
 
-        private void LoadPlugins(string path, string searchInterface, Dictionary<string, IQueueOperations> plugins)
+        private void SetLoadPlugins(string path, string searchInterface, Dictionary<string, IQueueOperations> plugins)
         {
 
             _pluginsBasicOperations.Clear();
