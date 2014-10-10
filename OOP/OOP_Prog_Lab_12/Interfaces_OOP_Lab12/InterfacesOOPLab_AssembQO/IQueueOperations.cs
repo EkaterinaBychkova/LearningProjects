@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Interfaces_OOP_Lab12
+namespace InterfaceOOPLab_AssembQO
 {
     interface IQueueOperations
     {
