@@ -1,2 +1,14 @@
 E:\Univer Documents\ООП\Лабораторные\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\bin\Debug\OOP_Prog_Lab_12.exe.config
 E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\bin\Debug\OOP_Prog_Lab_12.exe.config
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\obj\Debug\OOP_Prog_Lab_12.csprojResolveAssemblyReference.cache
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\obj\Debug\MainWindow.baml
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\obj\Debug\MainWindow.g.cs
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\obj\Debug\App.g.cs
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\obj\Debug\OOP_Prog_Lab_12_MarkupCompile.cache
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\obj\Debug\OOP_Prog_Lab_12.g.resources
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\obj\Debug\OOP_Prog_Lab_12.Properties.Resources.resources
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\obj\Debug\OOP_Prog_Lab_12.csproj.GenerateResource.Cache
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\obj\Debug\OOP_Prog_Lab_12.exe
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\obj\Debug\OOP_Prog_Lab_12.pdb
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\bin\Debug\OOP_Prog_Lab_12.exe
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\OOP_Prog_Lab_12\OOP_Prog_Lab_12\bin\Debug\OOP_Prog_Lab_12.pdb
