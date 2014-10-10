@@ -62,9 +62,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Code\LoadPlugin.cs" />
-    <Compile Include="Interfaces\IBasicOperations.cs" />
-    <Compile Include="Interfaces\IOperationsMatrix.cs" />
-    <Compile Include="Interfaces\IQueueOperations.cs" />
+    <Compile Include="Code\Interfaces\IBasicOperations.cs" />
+    <Compile Include="Code\Interfaces\IOperationsMatrix.cs" />
+    <Compile Include="Code\Interfaces\IQueueOperations.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

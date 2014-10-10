@@ -6,3 +6,4 @@ E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab_A
 E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab_AssembQO\bin\Debug\InterfacesOOPLab_AssembQO.pdb
 E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab_AssembQO\obj\Debug\InterfacesOOPLab_AssembQO.dll
 E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab_AssembQO\obj\Debug\InterfacesOOPLab_AssembQO.pdb
+E:\MyLocalRepository\OOP\OOP_Prog_Lab_12\Interfaces_OOP_Lab12\InterfacesOOPLab_AssembQO\obj\Debug\InterfaceOOPLab_AssembQO.csprojResolveAssemblyReference.cache

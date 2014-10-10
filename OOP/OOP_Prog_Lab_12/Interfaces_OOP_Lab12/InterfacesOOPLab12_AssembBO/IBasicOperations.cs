@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterfaceOOPLab12_AssembBO
+namespace Interfaces_OOP_Lab12
 {
     interface IBasicOperations
     {
 
         object this[int index] { get; }
+        string Name { get; }
         void Add(object obj);
         void AddRange(params object[] args);
         void Delete(int index);

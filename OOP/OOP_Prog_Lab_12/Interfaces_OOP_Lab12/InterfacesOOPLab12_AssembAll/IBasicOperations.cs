@@ -10,6 +10,7 @@ namespace Interfaces_OOP_Lab12
     {
 
         object this[int index] { get; }
+        string Name { get; }
         void Add(object obj);
         void AddRange(params object[] args);
         void Delete(int index);

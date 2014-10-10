@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Reflection;
 using System.IO;
+using System.Diagnostics;
 using OOP_Prog_Lab_12.Code.Interfaces;
 
 namespace OOP_Prog_Lab_12.Code
@@ -27,22 +28,32 @@ namespace OOP_Prog_Lab_12.Code
         private void LoadPlugins(string path, string searchInterface, Dictionary<string, IBasicOperations> plugins)
         {
 
-            plugins.Clear();
+            _pluginsBasicOperations.Clear();
 
             foreach (var itemDll in Directory.GetFiles(path, "*.dll"))
             {
 
-                Assembly assembly = Assembly.LoadFrom(itemDll);
-
-                foreach (Type type in assembly.GetTypes())
+                try
                 {
-                    
+                    Assembly assembly = Assembly.LoadFrom(itemDll);
 
-                    if (type.GetInterface(searchInterface) == typeof(IBasicOperations))
+                    foreach (Type type in assembly.GetTypes())
                     {
 
-                        //ДАЛЕЕ ЛОГИКА ЗАГРУЗКИ
+
+                        if (type.GetInterface(searchInterface) == typeof(IBasicOperations))
+                        {
+
+                            IBasicOperations plugin = Activator.CreateInstance(type) as IBasicOperations;
+                            _pluginsBasicOperations[plugin.Name] = plugin;
+                        }
                     }
+                }
+                catch(BadImageFormatException e)
+                {
+
+                    //Передача в окно Output информации.
+                    Debug.WriteLine(e.Message);
                 }
             }
         }
@@ -50,14 +61,70 @@ namespace OOP_Prog_Lab_12.Code
         private void LoadPlugins(string path, string searchInterface, Dictionary<string, IOperationsMatrix> plugins)
         {
 
-            //ПЕРЕГРУЗКА
+            _pluginsBasicOperations.Clear();
+
+            foreach (var itemDll in Directory.GetFiles(path, "*.dll"))
+            {
+
+                try
+                {
+                    Assembly assembly = Assembly.LoadFrom(itemDll);
+
+                    foreach (Type type in assembly.GetTypes())
+                    {
+
+
+                        if (type.GetInterface(searchInterface) == typeof(IOperationsMatrix))
+                        {
+
+                            IOperationsMatrix plugin = Activator.CreateInstance(type) as IOperationsMatrix;
+                            _pluginsOperationsMatrix[plugin.Name] = plugin;
+                        }
+                    }
+                }
+                catch (BadImageFormatException e)
+                {
+
+                    //Передача в окно Output информации.
+                    Debug.WriteLine(e.Message);
+                }
+            }
         }
 
         private void LoadPlugins(string path, string searchInterface, Dictionary<string, IQueueOperations> plugins)
         {
 
+            _pluginsBasicOperations.Clear();
 
+            foreach (var itemDll in Directory.GetFiles(path, "*.dll"))
+            {
+
+                try
+                {
+                    Assembly assembly = Assembly.LoadFrom(itemDll);
+
+                    foreach (Type type in assembly.GetTypes())
+                    {
+
+
+                        if (type.GetInterface(searchInterface) == typeof(IQueueOperations))
+                        {
+
+                            IQueueOperations plugin = Activator.CreateInstance(type) as IQueueOperations;
+                            _pluginsQueueOperations[plugin.Name] = plugin;
+                        }
+                    }
+                }
+                catch (BadImageFormatException e)
+                {
+
+                    //Передача в окно Output информации.
+                    Debug.WriteLine(e.Message);
+                }
+            }
         }
+
+        //ДАЛЕЕ СМ. В МЕТОДИЧКЕ private void CreatePluginMenu()
 
 
 

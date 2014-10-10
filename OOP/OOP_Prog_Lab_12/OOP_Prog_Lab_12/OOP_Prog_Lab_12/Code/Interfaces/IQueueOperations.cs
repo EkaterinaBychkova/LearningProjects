@@ -9,6 +9,7 @@ namespace OOP_Prog_Lab_12.Code.Interfaces
     interface IQueueOperations
     {
 
+        string Name { get; }
         object GetFirst();
         object GetLast();
         int Lenght { get; set; }

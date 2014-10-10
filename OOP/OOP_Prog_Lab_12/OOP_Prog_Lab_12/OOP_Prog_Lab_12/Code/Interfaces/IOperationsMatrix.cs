@@ -9,6 +9,7 @@ namespace OOP_Prog_Lab_12.Code.Interfaces
     interface IOperationsMatrix
     {
 
+        string Name { get; }
         void AdditionMatrix();
         void SubtractionMatrix();
         void MultiplicationMatrix();
