@@ -129,6 +129,54 @@ namespace App_GUI_Lab2_WinForms
             }
         }
 
+        public void CopyText()
+        {
+
+            if (!string.IsNullOrEmpty(richTextBoxWorkWindow.SelectedText))
+            {
+
+                richTextBoxWorkWindow.Copy();
+            }
+            else
+            {
+
+                MessageBox.Show("Вы не выделили текст.");
+            }
+
+        }
+
+        public void PasteText()
+        {
+
+            if (Clipboard.ContainsData(DataFormats.Rtf))
+            {
+
+                richTextBoxWorkWindow.Paste();
+            }
+            else
+            {
+
+                MessageBox.Show("Буфер обмена пуст.");
+            }
+
+        }
+
+        public void CutText()
+        {
+
+            if (Clipboard.ContainsData(DataFormats.Rtf))
+            {
+
+                richTextBoxWorkWindow.Paste();
+            }
+            else
+            {
+
+                MessageBox.Show("Буфер обмена пуст.");
+            }
+
+        }
+
         private void ShowStyleFont()
         {
 
@@ -222,46 +270,19 @@ namespace App_GUI_Lab2_WinForms
         private void ClickCopyToolStripMenuItem(object sender, EventArgs e)
         {
 
-            if (!string.IsNullOrEmpty(richTextBoxWorkWindow.SelectedText))
-            {
-
-                richTextBoxWorkWindow.Copy();
-            }
-            else
-            {
-
-                MessageBox.Show("Вы не выделили текст.");
-            }
+            this.CopyText();
         }
 
         private void ClickPasteToolStripMenuItem(object sender, EventArgs e)
         {
 
-            if (Clipboard.ContainsData(DataFormats.Rtf))
-            {
-
-                richTextBoxWorkWindow.Paste();
-            }
-            else
-            {
-
-                MessageBox.Show("Буфер обмена пуст.");
-            }
+            this.PasteText();
         }
 
         private void ClickCutToolStripMenuItem(object sender, EventArgs e)
         {
 
-            if (!string.IsNullOrEmpty(richTextBoxWorkWindow.SelectedText))
-            {
-
-                richTextBoxWorkWindow.Cut();
-            }
-            else
-            {
-
-                MessageBox.Show("Вы не выделили текст.");
-            }
+            this.CutText();
         }
 
         private void ClickFontToolStripMenuItem(object sender, EventArgs e)
@@ -295,10 +316,6 @@ namespace App_GUI_Lab2_WinForms
         }
 
         #endregion
-
-
-
-
 
     }
 }

@@ -43,7 +43,7 @@ namespace App_GUI_Lab2_WinForms
         private WorkForm GetLastActiveWorkFormObj()
         {
 
-            for (int i = _openDocuments.Count; i >= 0; i--)
+            for (int i = _openDocuments.Count - 1; i >= 0; i--)
             {
 
                 if (_openDocuments[i].NameDocument == _lastActiveWorkFormNameFile)
@@ -55,7 +55,7 @@ namespace App_GUI_Lab2_WinForms
                 { }
             }
 
-            return _openDocuments[_openDocuments.Count];
+            return _openDocuments[_openDocuments.Count - 1];
         }
 
         private void CreateDocument()
@@ -120,6 +120,24 @@ namespace App_GUI_Lab2_WinForms
             }
 
             _openDocuments.Clear();
+        }
+
+        private void ClickCopyToolStripMenuItem(object sender, EventArgs e)
+        {
+
+            this.GetLastActiveWorkFormObj().CopyText();
+        }
+
+        private void ClickPasteToolStripMenuItem(object sender, EventArgs e)
+        {
+
+            this.GetLastActiveWorkFormObj().PasteText();
+        }
+
+        private void ClickCutToolStripMenuItem(object sender, EventArgs e)
+        {
+
+            this.GetLastActiveWorkFormObj().CutText();
         }
         
     }
