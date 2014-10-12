@@ -14,6 +14,8 @@ namespace App_GUI_Lab2_WinForms
     {
 
         List<WorkForm> _openDocuments;
+        List<WorkForm> _lastOpenDocuments;
+
         int _numberDocument = 1;
         string _lastActiveWorkFormNameFile;
 
@@ -37,8 +39,11 @@ namespace App_GUI_Lab2_WinForms
             InitializeComponent();
 
             _openDocuments = new List<WorkForm>();
+            _lastOpenDocuments = new List<WorkForm>();
             _lastActiveWorkFormNameFile = null;
         }
+
+        #region Form Operation
 
         private WorkForm GetLastActiveWorkFormObj()
         {
@@ -79,6 +84,36 @@ namespace App_GUI_Lab2_WinForms
             _openDocuments.Last().LoadFile(openFile.FileName);
             
         }
+
+        private void AddLastOpenDocument(WorkForm wf)
+        {
+
+            if (_lastOpenDocuments.Count < 5)
+            {
+
+                _lastOpenDocuments.Add(wf);
+            }
+            else
+            {
+
+                _lastOpenDocuments.RemoveAt(0);
+
+                for (int i = 1; i < _lastOpenDocuments.Count; i++)
+                {
+
+                    _lastOpenDocuments[i - 1] = _lastOpenDocuments[i];
+                }
+
+                _lastOpenDocuments.Add(wf);
+                _lastOpenDocuments.TrimExcess();
+            }
+        }
+
+        #endregion
+
+        //ПРОДОЛЖИТЬ РЕАЛИЗАЦИЮ СПИСКА ПОСЛЕДНИХ ОТКРЫТЫХ ОКОН
+
+        #region Form Events
 
         private void ClickCreateFileToolStripMenuItem(object sender, EventArgs e)
         {
@@ -139,6 +174,26 @@ namespace App_GUI_Lab2_WinForms
 
             this.GetLastActiveWorkFormObj().CutText();
         }
-        
+
+        private void ClickToCascadeToolStripMenuItem(object sender, EventArgs e)
+        {
+
+            this.LayoutMdi(MdiLayout.Cascade);
+        }
+
+        private void ClickToVerticalyToolStripMenuItem(object sender, EventArgs e)
+        {
+
+            this.LayoutMdi(MdiLayout.TileVertical);
+        }
+
+        private void ClickToHorizontallyToolStripMenuItem(object sender, EventArgs e)
+        {
+
+            this.LayoutMdi(MdiLayout.TileHorizontal);
+        }
+
+        #endregion
+
     }
 }
